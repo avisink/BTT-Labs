@@ -1,0 +1,33 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2867
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 submitted_at,bike_aware,bike_barriers,bike_improvements,capmetro_freq,capmetro_improvements,charge_location,commute,equity_statements,ev_barrier_severity,ev_barriers,ev_status,role\
+2026-03-31T16:13:02.218Z,unaware,,free,rarely,closer_stop; ev_buses; ht_pass; real_time,na,under5,unaware_incentives,2,info,no_car,commuter\
+2026-03-31T04:59:28.141Z,no_bikes,more_bikes,never,closer_stop,public,oncampus,ev_costly,2,no_charging,no_car,resident\
+2026-03-31T00:22:27.671Z,unaware,more_bikes; awareness; shade,sometimes,frequency; ev_buses,na,under5,unaware_incentives,4,no_charging,no_car,commuter\
+2026-03-30T00:21:29.091Z,unaware,free,never,no_change,na,under5,unaware_incentives,2,trust,not_interested,commuter\
+2026-03-29T04:44:13.237Z,unaware,awareness,never,ht_pass,na,oncampus,ev_costly,2,no_charging,open,resident\
+2026-03-29T03:36:28.887Z,unaware,more_bikes; free; awareness,weekly,frequency; ev_buses; ht_pass; late_night,home_own,oncampus,campus_should; unaware_incentives,4,cost; no_charging; not_priority,no_car,resident\
+2026-03-28T21:47:15.471Z,yes_no,no_bikes; signup; distance; heat,more_bikes; free; awareness,rarely,frequency; closer_stop; ev_buses; ht_pass; real_time,na,oncampus,hbcu_lead; ev_costly; campus_should,4,cost; not_priority,no_car,resident\
+2026-03-28T21:32:34.302Z,unaware,awareness,never,no_change,na,oncampus,hbcu_lead; unaware_incentives,3,range; trust,own_hybrid,resident\
+2026-03-28T20:07:12.249Z,yes_no,signup,ebikes; more_bikes; awareness,never,no_change,na,oncampus,ev_costly,3,info,not_interested,resident\
+2026-03-28T18:51:43.326Z,unaware,more_bikes; better_app; more_docks; free; helmets; awareness,rarely,frequency; closer_stop; ht_pass; real_time,na,oncampus,hbcu_lead; black_benefit; campus_should,5,cost; range; info; not_priority,no_car,resident\
+2026-03-28T16:48:15.375Z,unaware,free,sometimes,frequency; real_time,na,oncampus,hbcu_lead; unaware_incentives,3,no_charging; info,no_car,resident\
+2026-03-28T15:21:03.634Z,yes_no,unaware,awareness,rarely,late_night,na,oncampus,,1,not_priority; none,no_car,resident\
+2026-03-28T15:20:58.591Z,unaware,ebikes; more_bikes; better_app; more_docks; free; awareness,never,ev_buses; ht_pass,na,oncampus,ev_costly,5,cost; no_charging; range; info; trust; not_priority,not_interested,commuter\
+2026-03-28T15:10:58.345Z,unaware; distance; heat; safety,free; awareness; shade,sometimes,frequency; ev_buses; ht_pass; real_time; late_night,public,5to15,hbcu_lead; black_benefit; campus_should,5,cost; no_charging; range; info; not_priority,open,commuter\
+2026-03-28T15:03:20.373Z,yes_no,signup; heat,more_bikes; better_app; helmets,never,no_change,public,under5,hbcu_lead; ev_costly; black_benefit,3,cost; no_charging; info; trust,open,commuter\
+2026-03-26T17:24:35.279Z,yes_use,no_bikes,more_bikes,rarely,ev_buses; real_time,na,oncampus,hbcu_lead; black_benefit; campus_should,4,no_charging; renting; range; trust; not_priority,no_car,resident\
+2026-03-26T06:17:24.954Z,yes_no,ebikes; free; helmets,sometimes,frequency; closer_stop; ev_buses,na,under5,ev_costly; black_benefit,4,not_priority,no_car,staff\
+2026-03-26T05:04:56.329Z,yes_use,nothing,more_bikes; more_docks; helmets,sometimes,no_change,public,oncampus,hbcu_lead; ev_costly,4,cost,open,resident\
+2026-03-26T03:15:28.548Z,yes_no,no_docks,more_docks,sometimes,late_night,home_rent,under5,ev_costly; infra_gap,3,renting,no_car,commuter\
+2026-03-26T03:07:05.714Z,yes_use,no_bikes; no_docks,more_bikes; better_app,rarely,ev_buses; ht_pass,public,oncampus,hbcu_lead; ev_costly,4,info; not_priority,planning,resident\
+2026-03-26T02:19:56.326Z,yes_use,no_docks; distance; heat,ebikes; better_app; free; awareness,rarely,frequency; closer_stop; ev_buses,na,under5,hbcu_lead; ev_costly; infra_gap; campus_should; unaware_incentives,4,range; not_priority,open,resident\
+2026-03-26T01:20:32.106Z,unaware,more_bikes; better_app; more_docks; free; helmets; awareness,never,no_change,na,oncampus,campus_should,3,not_priority,planning,resident\
+2026-03-26T01:18:55.099Z,yes_use,nothing,ebikes; more_bikes; free,never,no_change,na,oncampus,ev_costly; black_benefit; campus_should,4,not_priority,open,resident\
+2026-03-26T00:51:30.389Z,yes_no,no_bikes; website; no_docks; signup; distance; heat,more_bikes; better_app; more_docks; free; helmets; awareness; shade,rarely,frequency; ev_buses; real_time,na,oncampus,hbcu_lead; ev_costly; black_benefit; infra_gap; campus_should,1,cost; no_charging; renting; range; info; trust; not_priority,no_car,resident\
+2026-03-26T00:50:14.606Z,yes_no,no_bikes; website; no_docks; signup; distance; heat; safety,more_bikes; better_app; more_docks; free; helmets; awareness; shade,rarely,frequency; closer_stop; ev_buses; ht_pass; real_time; late_night; already,na,oncampus,hbcu_lead; ev_costly; black_benefit; infra_gap; campus_should,1,cost; no_charging; renting; range; info; trust; not_priority,no_car,resident}
